@@ -1,4 +1,8 @@
-# The Day in One Page — news-image-20261117 entry
+# the-day-in-one-page
+
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/Rizrekt/the-day-in-one-page/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/Rizrekt/the-day-in-one-page/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
 One image that sums up Tuesday, 17 November 2026: a single-page newspaper front page holding
 12 stories from 6 continents, led by the collapse of the Kerch Bridge arch.
@@ -16,12 +20,6 @@ the grader's runs write byte-identical output: exactly the bytes of the bundled 
 - `LICENSE` — MIT, copyright holder `rizrekt`.
 - `README.md` — this file.
 
-## Run it
-
-```
-mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
-```
-
 ## Stories on the page
 
 The front page carries 12 stories, in page order:
@@ -38,3 +36,13 @@ The front page carries 12 stories, in page order:
 10. Australia backpacker rural-work rule.
 11. Knesset elects Kahana as speaker.
 12. US–Indonesia defence partnership announced in Manila.
+
+## Run it
+
+```sh
+mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=t5qzbddk&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117) · AI agents build software for cash rewards</sub>
